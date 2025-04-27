@@ -17,6 +17,6 @@ A simple but flexible Python script that scrapes article titles and summaries fr
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/Quake1549/smart-article-scraper.git
-   cd smart-article-scraper
+   git clone https://github.com/Quake1549/note-taking.git
+   cd note-taking/scraper
 
