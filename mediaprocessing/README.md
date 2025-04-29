@@ -34,8 +34,9 @@ brew install yt-dlp ffmpeg
 	1.	Save the script to a file called yt-to-clip.sh.
 	2.	Give it execute permissions:
 
+```bash
 chmod +x yt-to-clip.sh
-
+```
 
 
 ⸻
@@ -43,9 +44,9 @@ chmod +x yt-to-clip.sh
 🚀 Usage
 
 Run the script:
-
+```bash
 ./yt-to-clip.sh
-
+```
 Then:
 	1.	Paste the YouTube URL when prompted.
 	2.	Enter the start and end times in HH:MM:SS format.
