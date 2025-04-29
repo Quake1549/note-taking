@@ -23,8 +23,9 @@ Make sure you have the following installed:
 
 Install them easily on macOS (Homebrew):
 
+```bash
 brew install yt-dlp ffmpeg
-
+```
 
 
 ⸻
