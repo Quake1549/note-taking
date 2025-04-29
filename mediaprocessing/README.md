@@ -6,11 +6,12 @@ Easily download any YouTube video and extract a specific time frame into a clean
 
 
 ## ✨ Features
-	🔥 Download videos directly from YouTube.
-	✂️ Select any start and end time to trim.
-	⚡ Super-fast cutting without re-encoding.
-	🧹 Auto-cleans temporary files.
-	🎯 Output always saved as MP4.
+
+🔥 Download videos directly from YouTube.
+✂️ Select any start and end time to trim.
+⚡ Super-fast cutting without re-encoding.
+🧹 Auto-cleans temporary files.
+🎯 Output always saved as MP4.
 
 ⸻
 
