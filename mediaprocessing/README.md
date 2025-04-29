@@ -8,17 +8,18 @@ Easily download any YouTube video and extract a specific time frame into a clean
 
 ✨ Features
 
-	-	🔥 Download videos directly from YouTube.
-	-	✂️ Select any start and end time to trim.
-	-	⚡ Super-fast cutting without re-encoding.
-	-	🧹 Auto-cleans temporary files.
-	-	🎯 Output always saved as MP4.
+	🔥 Download videos directly from YouTube.
+	✂️ Select any start and end time to trim.
+	⚡ Super-fast cutting without re-encoding.
+	🧹 Auto-cleans temporary files.
+	🎯 Output always saved as MP4.
 
 ⸻
 
 🛠 Requirements
 
 Make sure you have the following installed:
+
 	•	yt-dlp
 	•	ffmpeg
 
@@ -32,6 +33,7 @@ brew install yt-dlp ffmpeg
 ⸻
 
 📥 Installation
+
 	1.	Save the script to a file called yt-to-clip.sh.
 	2.	Give it execute permissions:
 
@@ -49,6 +51,7 @@ Run the script:
 ./yt-to-clip.sh
 ```
 Then:
+
 	1.	Paste the YouTube URL when prompted.
 	2.	Enter the start and end times in HH:MM:SS format.
 	3.	Your trimmed clip will be saved as output.mp4!
@@ -70,6 +73,7 @@ Trimmed video saved as output.mp4
 ⸻
 
 ⚡ How It Works
+
 	•	Downloads the best MP4 version available.
 	•	Asks for the clip range.
 	•	Cuts the requested section without re-encoding for fast results.
