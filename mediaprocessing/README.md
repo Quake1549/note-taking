@@ -55,7 +55,7 @@ Then:
 ⸻
 
 📸 Example
-
+```bash
 $ ./yt-to-clip.sh
 Enter the YouTube video URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Downloading video...
@@ -63,7 +63,7 @@ Enter start time (HH:MM:SS): 00:01:00
 Enter end time (HH:MM:SS): 00:01:15
 Extracting the requested clip...
 Trimmed video saved as output.mp4
-
+```
 
 
 ⸻
